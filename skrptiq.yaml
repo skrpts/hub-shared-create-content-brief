@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "26c1d5f4-4c6d-4029-9c97-c9e251d0f559"
+id: "18c65203-c687-46f1-9ded-e09eb3f7862a"
 name: "create-content-brief"
 display_name: "Create Content Brief"
 description: "Creates a structured brief for writers and content producers"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
